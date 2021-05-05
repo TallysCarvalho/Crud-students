@@ -39,11 +39,11 @@ Simple crud with name, email, and profile photo registration.
 ## Getting started
  
 * To install
->    $ First in a Terminal in a directory project give a, Yarn or NPM
+>    First in a Terminal in a directory project give a, Yarn or NPM
 > * To run the project:
->    $ npm start
+>    npm start
 >    after
->    $ npm react-native run-android
+>    npm react-native run-android
 >    
 >    and your project run, COOL!!!!
  
