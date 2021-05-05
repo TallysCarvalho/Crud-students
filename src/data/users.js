@@ -4,27 +4,27 @@ export default [
     name: 'João Silva',
     email: 'josil@empmail.com',
     avatarUrl:
-      'https://cdn.pixabay.com/photo/2016/11/18/23/38/child-1837375_960_720.png',
+      'https://www.w3schools.com/howto/img_avatar.png',
   },
   {
     id: 2,
     name: 'Mariana Aguiar',
     email: 'riamasil@empmail.com',
     avatarUrl:
-      'https://cdn.pixabay.com/photo/2016/04/01/12/11/avatar-1300582_960_720.png',
+      'https://www.fernandesedutra.com.br/wp-content/uploads/2021/02/user_login.png',
   },
   {
     id: 3,
     name: 'Julio Fragoso',
     email: 'juliafral@empmail.com',
     avatarUrl:
-      'https://cdn.pixabay.com/photo/2016/03/31/19/58/avatar-1295429_960_720.png',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSla-p7MqWVSLL2rpSQHlxEO6mKceKYPvZjo4oslefoeXE7-oMcRHP5IfT3qgllHC8kKvQ&usqp=CAU',
   },
   {
     id: 4,
     name: 'Rafael Monteiro',
     email: 'rafamontee@empmail.com',
     avatarUrl:
-      'https://cdn.pixabay.com/photo/2016/11/01/21/11/avatar-1789663_960_720.png',
+      'https://thumbs.dreamstime.com/z/avatar-do-m%C3%A9dico-da-cabe%C3%A7a-%C3%ADcone-web-doutor-103706729.jpg',
   },
 ];
