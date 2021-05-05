@@ -6,7 +6,8 @@
  
 ## Crud students
  
-Crud simples com registro de nome, email, e foto de perfil.. 
+Simple crud with name, email, and profile photo registration.
+
  
 ## Technology 
  
