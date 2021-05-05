@@ -11,6 +11,12 @@ Crud simples com registro de nome, email, e foto de perfil..
 ## Technology 
  
 * React-Native
+{
+   redux,
+   hooks,
+   React-native-image-picker,
+   React-native-elements
+}
 * Javascript
 *Typescript 
 * ...
